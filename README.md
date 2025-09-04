@@ -1,2 +1,2 @@
 # DSA-Questions
-Python DSA-Question
+Python DSA-Questions
