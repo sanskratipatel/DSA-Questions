@@ -12,3 +12,4 @@ for i in range(0 , len(str1)) :
         ch = ord(pre) + int(str1[i]) 
         output = output + pre + chr(ch) 
 print(output)
+
