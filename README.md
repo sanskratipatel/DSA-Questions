@@ -1,6 +1,6 @@
 # DSA-Questions
 Python DSA-Questions 
-Welcome to the **Python Basics Practice Repository**! This repository contains a comprehensive collection of beginner-friendly Python programs covering fundamental topics such as:-
+Welcome to the **Python Basics Practice Repository**! This repository contains a comprehensive collection of beginner-friendly Python programs covering fundamental topics such as :-
 
 * 📋 **Lists**
 * 🔁 **Loops**
