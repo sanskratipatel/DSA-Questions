@@ -87,7 +87,7 @@ python-basics/
 ### ✅ Basic Logic & Practice Problems
 
 * Prime number check
-* Factorial
+* Factorials
 * Sum and average
 * Number patterns and sequences
 
